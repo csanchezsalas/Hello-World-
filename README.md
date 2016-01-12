@@ -2,4 +2,4 @@
 My first repository
 
 I love :coffee: & :pizza: 
-<h1>Trying github</h1>
+<h2>Trying github</h2>
